@@ -1,0 +1,14 @@
+{
+  "name": "tryouts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "binarysearch.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "npx mocha --exit"
+  },
+  "author": "",
+  "license": "ISC"
+}
